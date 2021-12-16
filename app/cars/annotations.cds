@@ -1,0 +1,1 @@
+using AutomotiveService as service from '../../srv/automotive-service';
